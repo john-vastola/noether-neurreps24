@@ -11,4 +11,7 @@ There is one Jupyter notebook per figure:
 
 **2.** `fig2-diffusion.ipynb` Contains code for generating Figure 2, on "Angular momentum conservation in reverse diffusion".
 
+<p align="center">
+<img src="fig_revdiff.png" width="400"/></p>
+
 When the notebooks are run, generated figures appear in the `results/` folder.
