@@ -1,6 +1,6 @@
 # Code for "Dynamical symmetries in the fluctuation-driven regime: an application of Noether's theorem to noisy dynamical systems" (NeurReps 2024)
  
-This repo contains code for a paper from [NeurReps](neurreps.org) 2024. Only standard libraries (NumPy, SciPy, Matplotlib, and PyTorch) are used.
+This repo contains code for a paper from [NeurReps](https://www.neurreps.org) 2024. Only standard libraries (NumPy, SciPy, Matplotlib, and PyTorch) are used.
 
 There is one Jupyter notebook per figure:
 
